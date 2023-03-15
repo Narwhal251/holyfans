@@ -529,6 +529,27 @@ section {
   margin: 4px 10px;
 }
 
+.update1 .changebottom {
+  margin-left: 300px;
+  content: "";
+  width: 1300px;
+  height: 3px;
+  display: inline-block;
+  background: black;
+  margin-top: 50px;
+}
+
+.update1 .changebottom2 {
+  margin-top: 50px;
+  margin-left: 850px;
+  font-weight: 1000;
+}
+
+.update1 .bottomimage {
+  margin-left: 830px;
+  font-weight: 1000;
+}
+
 .section-title p {
   margin: 0;
   margin: 0;
@@ -727,6 +748,21 @@ section {
 .courses .course-content {
   padding: 15px;
 }
+
+.update1 .change {
+  margin-left: 800px;
+  color: black;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.update1 .changetext {
+  margin-left: 800px;
+  color: black;
+  font-weight: 500;
+  font-size: 20px;
+}
+
 
 .courses .course-content h3 {
   font-weight: 700;
